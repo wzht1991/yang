@@ -1,0 +1,25 @@
+{
+  "name": "yang",
+  "version": "1.0.0",
+  "description": "this project will use nodejs to connect database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzht1991/yang.git"
+  },
+  "author": "Tony Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzht1991/yang/issues"
+  },
+  "homepage": "https://github.com/wzht1991/yang#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.9.0",
+    "nodemon": "^1.19.1"
+  }
+}
