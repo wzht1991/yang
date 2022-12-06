@@ -19,7 +19,7 @@
   "homepage": "https://github.com/wzht1991/yang#readme",
   "dependencies": {
     "dotenv": "^8.1.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "helmet": "^3.20.1",
     "node": "^12.9.0",
     "nodemon": "^1.19.1"
